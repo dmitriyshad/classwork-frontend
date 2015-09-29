@@ -1,0 +1,14 @@
+{
+  "name": "classwork-frontend",
+  "version": "1.0.0",
+  "description": "Frontend of classwork application",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitriyshad/classwork-frontend.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmitriyshad/classwork-frontend/issues"
+  },
+  "homepage": "https://github.com/dmitriyshad/classwork-frontend#readme"
+}
