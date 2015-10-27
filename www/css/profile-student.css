@@ -1,0 +1,48 @@
+header {
+    margin-bottom: 50px;
+}
+
+.left-bar {
+    border: 1px solid #dedede;
+    border-radius: 2px;
+
+    margin-bottom: 20px;
+
+    float: left;
+
+}
+
+.header, .header {
+    background-color: #dedede;
+    padding: 10px;
+
+    font-weight: bold;
+}
+
+.left-bar > ul {
+    padding-left: 30px;
+    padding-right: 30px;
+    list-style-type: circle;
+}
+
+li {
+    margin: 10px; 
+}
+
+h1, .left-bar {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.course-info {
+    border: 1px solid #dedede;
+    border-radius: 2px;
+
+    display: table;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.course-info > .content {
+    padding: 30px;
+}
